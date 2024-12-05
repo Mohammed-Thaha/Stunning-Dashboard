@@ -24,7 +24,7 @@ Ensure you have the following installed:
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/mohammed-thaha/react-dashboard.git
+   git clone https://github.com/mohammed-thaha/Stunning-Dashboard.git
 
 
 Currently, two official plugins are available:
