@@ -1,9 +1,9 @@
 import PropTypes from "prop-types";
 import { useContext } from "react";
-import { ThemeContext } from "./context/ThemeContextProvider"; // Assuming the path is correct
+import { ThemeContext } from "./context/ThemeContextProvider"; 
 
 const Card = ({ icon, title, value }) => {
-  const { theme } = useContext(ThemeContext); // Get the current theme from context
+  const { theme } = useContext(ThemeContext); 
 
   return (
     <div
