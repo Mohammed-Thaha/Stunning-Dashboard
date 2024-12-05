@@ -1,9 +1,9 @@
 import { FaBox, FaCog, FaShoppingCart, FaTachometerAlt, FaUser, FaUsers } from "react-icons/fa";
-import { ThemeContext } from "./context/ThemeContextProvider"; // Correct path based on the location of the file
+import { ThemeContext } from "./context/ThemeContextProvider"; 
 import { useContext } from "react";
 
 const Sidebar = () => {
-  const { theme } = useContext(ThemeContext); // Get the current theme from context
+  const { theme } = useContext(ThemeContext); 
 
   return (
     <div
